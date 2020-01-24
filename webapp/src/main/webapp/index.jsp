@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a docker container  using pollSCM in Jenkins again </h2>
-<h2> Version 13  being uploaded </h2>
-<h2> Deployed using Jenkins & Ansible </h2> 
+<h2> This Has been Deployed on a docker container </h2>
+<h2> Using pollSCM in Jenkins and Ansible </h2>
+<h2> Version 14 being uploaded </h2>
