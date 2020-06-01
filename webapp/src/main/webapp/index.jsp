@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
   <!-- About Section -->
   <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-     <img src="/w3images/tablesetting2.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDPcEQrpXf0hois8Iwz91QjLPFnVnY4TjF8BZX9GpADkBWolxF&usqp=CAU" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
     </div>
 
     <div class="w3-col m6 w3-padding-large">
@@ -105,4 +105,5 @@ h1, h2, h3, h4, h5, h6 {
 
 </body>
 </html>
+
 
