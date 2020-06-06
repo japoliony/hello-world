@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
       <p class="w3-text-grey">Scrambled eggs, roasted red pepper and garlic, with green onions 7.50</p><br>
     
       <h4>Blueberry Pancakes</h4>
-      <p class="w3-text-grey">With syrup, butter and lots of berries 8.50</p>    
+      <p class="w3-text-grey">With fresh Vermont maple syrup, fresh churnned butter and lots of berries 8.50</p>    
     </div>
     
     <div class="w3-col l6 w3-padding-large">
@@ -105,5 +105,3 @@ h1, h2, h3, h4, h5, h6 {
 
 </body>
 </html>
-
-
