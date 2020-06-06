@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
       <h4>Honey Almond Granola with Fruits</h4>
       <p class="w3-text-grey">Natural toasted oat cereal of honey toasted oats, raisins, almonds and dates 7.00</p><br>
     
-      <h4>Belgian Waffle</h4>
+      <h4>Light & Crispy Belgian Waffle</h4>
       <p class="w3-text-grey">Vanilla flavored batter with malted flour 7.50</p><br>
     
       <h4>Supreme Scrambled eggs</h4>
